@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ilham Bouktir</h1>
 <h3 align="center">A frontend developer from Morocco</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilham-bouk" alt="ilham-bouk" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilham-bouk" alt="ilham-bouk" /></a> </p>
 
 - 🌱 I’m currently practicing and improve my skills in **HTML, JavaScript, and CSS**
 
