@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently practicing and improve my skills in **HTML, JavaScript, and CSS**
 
-- 📫 How to reach me **ilhambouktir8@gmail.com**
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/ilham-bouktir-0b266b31b)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
