@@ -26,7 +26,7 @@
 </div>
 
 - ✌️ I'm a **Frontend Focused Web Developer** building Websites and Web Applications that lead to the success of the overall product.
-- 📝 I regularly write articles on [DEV.to](https://dev.to/ilham-bouktir) like *"The HTML Dialog Element"* and *"10 Essential VS Code Extensions"*.
+- 📝 I regularly write articles on [DEV.to](https://dev.to/ilham-bouktir).
 - 💬 Ask me about: **HTML, CSS, JavaScript, React, TailwindCSS**
 
 <br>
