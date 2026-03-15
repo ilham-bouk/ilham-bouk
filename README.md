@@ -54,8 +54,7 @@
     <th width="150px">Date</th>
     <th>Article Title</th>
   </tr>
-  <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START --><tr><td>Nov 22, 2025</td><td><a href='https://dev.to/ilham-bouktir/the-html-dialog-element-your-native-solution-for-accessible-modals-and-popups-308p'><strong>The HTML Dialog Element: Your Native Solution for Accessible Modals and Popups</strong></a></td></tr><tr><td>Oct 23, 2025</td><td><a href='https://dev.to/ilham-bouktir/the-10-essential-vs-code-extensions-frontend-devs-need-in-2025-5h83'><strong>The 10 Essential VS Code Extensions Frontend Devs Need in 2025</strong></a></td></tr><tr><td>Oct 11, 2025</td><td><a href='https://dev.to/ilham-bouktir/understanding-html-meta-tags-a-complete-guide-14lo'><strong>Understanding HTML Meta Tags: A Complete Guide</strong></a></td></tr><tr><td>Sep 14, 2025</td><td><a href='https://dev.to/ilham-bouktir/creative-ways-to-style-the-html-details-tag-3c5k'><strong>Creative Ways to Style the HTML Details Tag</strong></a></td></tr><tr><td>Aug 25, 2025</td><td><a href='https://dev.to/ilham-bouktir/10-mind-blowing-codepen-demos-dml'><strong>10 Mind-Blowing CodePen Demos</strong></a></td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 
 ## GitHub Stats
