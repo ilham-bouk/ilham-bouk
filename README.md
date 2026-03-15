@@ -47,12 +47,28 @@
 
 <br>
 
+## Latest Articles
+
+<table>
+  <tr>
+    <th width="150px">Date</th>
+    <th>Article Title</th>
+  </tr>
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
+</table>
+
 ## GitHub Stats
 
 <div align="center">
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilham-bouk&theme=default&hide_border=true" alt="GitHub Streak" />
   <br><br>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=ilham-bouk&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilham-bouk&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="48%" />
+  
+</div>  <br><br>
   
   <img src="https://github-readme-stats.vercel.app/api?username=ilham-bouk&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilham-bouk&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="48%" />
