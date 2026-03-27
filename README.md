@@ -33,16 +33,10 @@
 
 ## Use To Code
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode,figma" />
+  </a>
 </p>
 
 <br>
@@ -54,7 +48,7 @@
     <th width="150px">Date</th>
     <th>Article Title</th>
   </tr>
-  <!-- BLOG-POST-LIST:START --><tr><td>Nov 22, 2025</td><td><a href='https://dev.to/ilham-bouktir/the-html-dialog-element-your-native-solution-for-accessible-modals-and-popups-308p'><strong>The HTML Dialog Element: Your Native Solution for Accessible Modals and Popups</strong></a></td></tr><tr><td>Oct 23, 2025</td><td><a href='https://dev.to/ilham-bouktir/the-10-essential-vs-code-extensions-frontend-devs-need-in-2025-5h83'><strong>The 10 Essential VS Code Extensions Frontend Devs Need in 2025</strong></a></td></tr><tr><td>Oct 11, 2025</td><td><a href='https://dev.to/ilham-bouktir/understanding-html-meta-tags-a-complete-guide-14lo'><strong>Understanding HTML Meta Tags: A Complete Guide</strong></a></td></tr><tr><td>Sep 14, 2025</td><td><a href='https://dev.to/ilham-bouktir/creative-ways-to-style-the-html-details-tag-3c5k'><strong>Creative Ways to Style the HTML Details Tag</strong></a></td></tr><tr><td>Aug 25, 2025</td><td><a href='https://dev.to/ilham-bouktir/10-mind-blowing-codepen-demos-dml'><strong>10 Mind-Blowing CodePen Demos</strong></a></td></tr><!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 </table>
 
 ## GitHub Stats
@@ -63,11 +57,6 @@
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilham-bouk&theme=default&hide_border=true" alt="GitHub Streak" />
   <br><br>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=ilham-bouk&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilham-bouk&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="48%" />
-  
-</div>  <br><br>
   
   <img src="https://github-readme-stats.vercel.app/api?username=ilham-bouk&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilham-bouk&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="48%" />
